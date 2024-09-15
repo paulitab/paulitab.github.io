@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #000f93;
     color: #fff;
     padding: 10px 0;
 }
@@ -29,3 +29,12 @@ nav ul li a {
 main {
     padding: 20px;
 }
+
+h1 {
+    color: #000f93;
+}
+
+h2 {
+    color: #000f93;
+}
+
